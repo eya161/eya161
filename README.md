@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Software Engineer sharing my journey and learnings in tech. <br/>
 👩🏻‍🎓 Currently in my third year of engineering specializing in web and internet technology at [ESPRIT](https://esprit.tn/esprit/valeurs), with a Bachelor's degree in Computer Science from [ISTIC Borj Cedria](https://ucar.rnu.tn/institut-superieur-des-technologies-de-linformation-et-de-la-telecommunication/). <br/>
-🌷*Working on academic projects using Laravel and Django and on my internship project named ticklyFix for ticketing management.
+🌷*Working on academic projects using Laravel and Django and on my internship project named ticklyFix for ticketing management.<br/>
   *Finished the MediColGes or CoMediC academic project, which includes web development, DevOps, and AI components. <br/>
 💭 Actively learning about data analytics, DevOps, and web development!
 
